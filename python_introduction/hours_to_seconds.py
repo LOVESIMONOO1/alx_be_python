@@ -1,6 +1,7 @@
 #variable
 hours = 2
 minutes = 60 
+
 #formula
 seconds = minutes * minutes * hours
 
