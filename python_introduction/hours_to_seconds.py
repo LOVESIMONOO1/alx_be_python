@@ -3,7 +3,7 @@ hours = 2
 minutes = 60 
 
 #formula
-seconds = minutes * minutes * hours
+seconds = hours * 3600
 
 #print result 
 print(hours , "hour(s) is " , seconds ," seconds.")
