@@ -1,5 +1,5 @@
 #User financial details
-monthly_income = int(input("Enter your monthly income"))
+monthly_income = int(input("Enter your monthly income:"))
 monthly_expenses = int(input("Enter your  monthly expenses"))
 
 #Monthly savings calculations
