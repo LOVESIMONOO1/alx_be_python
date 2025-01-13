@@ -1,5 +1,8 @@
 def perform_operation(num1, num2, operation):
+<<<<<<< HEAD
   
+=======
+>>>>>>> 0b954c02ff38ca3a1ec13e795220357f83e4f7db
     if operation == 'add':
         return num1 + num2
     elif operation == 'subtract':
